@@ -1,0 +1,24 @@
+/* CPTable.css */
+
+/* Table style */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+  
+}
+
+/* Header cell style */
+th {
+  background-color: rgb(5, 5, 209);
+  padding: 10px;
+  color: white;
+}
+
+/* Data cell style */
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+/* Add more styles as needed */

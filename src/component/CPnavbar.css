@@ -1,0 +1,24 @@
+.nav{
+    margin: 0px;
+    flex-wrap: nowrap;
+    display: flex;
+  }
+  .nav a{
+    padding: 15px;
+    color: rgb(21, 90, 151);
+    font-size: large;
+    font-weight: 900;
+    text-decoration: none;
+    
+  }
+  .nav a:hover{
+    color: rgb(99, 182, 214);
+  }
+  .navbar{
+    width: 100%;
+    font-family: cursive;
+    background-color: black;
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+  }

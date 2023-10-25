@@ -1,0 +1,73 @@
+/* *{
+  background-color: #FF033E;
+} */
+.container{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ text-decoration: underline;
+ font-size: large;
+
+
+ text-align: center;
+}
+.cards{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+  width: 100%;
+}
+.cardin{
+  text-align: center;
+  background:  #FF7417;
+  color: black;
+  margin: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: capitalize;
+  border: black solid;
+  border-radius: 25px;
+}
+.cardin p{
+  color: black;
+}
+.hed1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+
+}
+/* .mdv{
+  background-color: #FF033E;
+} */
+.login{
+  text-align: center;
+  color: white;
+  cursor: pointer;
+}
+.sgnup{
+  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+cursor: pointer;
+text-align: center;;
+}
+/* .mdvh{
+  background-color: #FF033E;
+} */
+.logbtn{
+  background-color: red;
+}
+.login2{
+  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 8px;
+  cursor: pointer;
+  margin-top: -10px;
+}
+/* .sgnh{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: uppercase;
+  border: black solid;
+  border-radius:25px;
+  text-align: center;
+  font-size: 40px;
+} */
